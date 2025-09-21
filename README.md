@@ -1,2 +1,2 @@
-# myfirstAIapp
-App for tweet generation
+# myfirstaiapp
+An app that generates tweets
